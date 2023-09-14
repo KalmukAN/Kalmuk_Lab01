@@ -6,12 +6,13 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n";
+	cout << "Hellow world" << endl
+		;
 
-    int i;
-    cin >> i;
-    cout << i
-    return 0;
+	int i;
+	cin >> i;
+	cout << i;
+	return 0; 
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
